@@ -1,0 +1,19 @@
+## Q2.5
+.form-select est spécialement conçue pour les listes déroulantes
+(select), tandis que .form-control est utilisée pour les champs
+de saisie (input et textarea). Avec .form-control, le select
+peut perdre son apparence adaptée, notamment le style de sa flèche.
+
+## Q2.6
+
+La balise <datalist> propose des suggestions tout en permettant
+à l'utilisateur de saisir une valeur personnalisée.
+
+La balise <select> propose une liste fixe d'options parmi
+lesquelles l'utilisateur doit choisir.
+##Q 2.8
+
+L'attribut accept=".pdf" filtre les fichiers affichés
+dans la fenêtre de sélection pour proposer uniquement
+les fichiers PDF. Il ne garantit pas à lui seul que
+le fichier envoyé est réellement un PDF.
